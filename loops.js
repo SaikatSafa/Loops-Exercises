@@ -32,6 +32,7 @@ function findDuplicate(arr) {
   }
 }
 console.log(findDuplicate([2, 7, 5, 9, 8, 7]));
+console.log("")
 
 //Remembering the results from the conditionals exercise on Monday
 // use the assignGrade function by logging every value from 60 to 100:
@@ -54,3 +55,4 @@ function assignGrade() {
 }
 
 assignGrade();
+console.log("");
